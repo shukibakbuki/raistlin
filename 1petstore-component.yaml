@@ -9,6 +9,13 @@ metadata:
     - Second item
   links:
     - url: https://github.com/shukibakbuki/raistlin
+      title: boyashaka
+      icon: github
+  tags:
+    - go
+    - go
+    - power
+    - rangers
 spec:
   type: service
   lifecycle: experimental
